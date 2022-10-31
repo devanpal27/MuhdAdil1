@@ -24,6 +24,7 @@ I'm Muhammed Adil from India and i do front-end development right now. Currently
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhdAdil&show_icons=true&theme=radical)
 
+<br>
 
 ## 🛠️ My Skills
 
