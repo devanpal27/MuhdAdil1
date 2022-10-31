@@ -9,7 +9,7 @@ I'm Muhammed Adil from India and i do front-end development right now. Currently
 
 </br>
 
-<br>
+
 ### :sassy_man:  About me
 - :school: B.E Student at Sahyadri College Of Engineering And Managment,Manglore
 - :computer: I am a front-end stack developer 
@@ -17,7 +17,7 @@ I'm Muhammed Adil from India and i do front-end development right now. Currently
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Currently Learning to become a `Full Stack developer`
 
-</br>
+
 
 
 
