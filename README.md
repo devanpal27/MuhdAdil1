@@ -57,6 +57,46 @@ I'm Muhammed Adil from India and i do front-end development right now. Currently
 	
 </p>
 
+ ### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /></a>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:sudhinjyothis@gmail.com"><img img src="https://xinetzone.github.io/ColoredBadges/svg/social/gmail.svg" alt="Gmail"/></a>
+	<a href="https://github.com/sudhinjyothis"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sudhin-jyothis/"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/linkedin.svg" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/sudhinjyothis/"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/instagram.svg" alt="Instagram"/></a>
+	<a href="https://www.snapchat.com/add/sudhinjyothis?share_id=wHJ45yStX2U&locale=en-GB"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/snapchat.svg" alt="Snap Chat"/></a>
+</p>
+
+
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+</p>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:muhdadil110@gmail.com"><img img src="https://xinetzone.github.io/ColoredBadges/svg/social/gmail.svg" alt="Gmail"/></a>
+	<a href="https://github.com/MuhdAdil1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.instagram.com/_.muhd_adil._/"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/instagram.svg" alt="Instagram"/></a>
+	<a href="https://www.snapchat.com/add/muhd_adil8835?share_id=wHJ45yStX2U&locale=en-GB"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/snapchat.svg" alt="Snap Chat"/></a>
+</p>
+
 
 
 
