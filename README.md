@@ -20,11 +20,43 @@ I'm Muhammed Adil from India and i do front-end development right now. Currently
 
 
 
-
-
 ### Stats🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhdAdil&show_icons=true&theme=radical)
+
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/csharp.svg">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/js.svg">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/java.svg">
+  </a>
+</p>
+
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/html.svg">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://xinetzone.github.io/ColoredBadges/svg/dev/languages/css3.svg">
+  </a> 
+	
+</p>
+
 
 
 
