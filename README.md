@@ -26,7 +26,7 @@
 Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE student from india.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I really do like to design websites and dont have that much Expirience beacause i'm currently learning things, but no worries i'll have more expirience in coming future. <br>
 
 - :school: B.E Student at Sahyadri College Of Engineering And Managment,Manglore
-- :student: I’m currently learning: `Artificial intelligence and machine learning` and `React`.
+- :student: I’m currently learning: `Artificial intelligence and machine learning` and `Bootstrap`.
 - :nerd_face: Currently in chase to become a `Full Stack developer`
 
 <br>
