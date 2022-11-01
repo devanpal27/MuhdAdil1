@@ -17,7 +17,7 @@
   <img align="left" alt="Muhd Adil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<p align="center"> 
+<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=MuhdAdil1&color=blue" alt="MuhammedAdil" /> 
 </p>
 
