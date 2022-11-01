@@ -23,7 +23,7 @@
 
 <br />
 
-Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE student from india.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Currently i'm very well good in HTML5 , CSS , C , and a little Java Script. I really do like to design websites and dont have that much Expirience beacause i'm currently learning things. Chasing to become a full stack web developer.
+Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE student from india.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I really do like to design websites and dont have that much Expirience beacause i'm currently learning things, but no worries i'll have more expirience in coming future.
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
