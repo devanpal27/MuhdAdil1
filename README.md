@@ -1,18 +1,20 @@
 ### Hi There👋, I'm Muhammed Adil
 
 <a href="https://www.instagram.com/_.muhd_adil._/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Muhd Adil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="mailto:muhdadil110@gmail.com">
-	<img  src="https://github.com/MuhdAdil1/gmail-icon/blob/main/index.svg" alt="Gmail"/></a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+	<img align="left" src="https://github.com/MuhdAdil1/gmail-icon/blob/main/index.svg" alt="Muhd Adil's Gmail"/>
+</a>
+	
+<a href="https://discord.gg/REEPERx">
+  <img align="left" alt="Muhd Adil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/MuhdAdi32605097/">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Muhd Adil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="www.linkedin.com/in/muhd-adil-b0b43a217/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Muhd Adil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
