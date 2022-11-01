@@ -1,4 +1,4 @@
-### Hi There👋, I'm Muhammed Adil
+### Hi There👋, 
 
 <a href="https://www.instagram.com/_.muhd_adil._/">
   <img align="left" alt="Muhd Adil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -17,15 +17,17 @@
   <img align="left" alt="Muhd Adil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=MuhdAdil1&color=blue" alt="MuhammedAdil" /> 
+</p>
+
 <br />
 
-I'm Muhammed Adil from India and i do front-end development right now. Currently i'm very well good in HTML5 , CSS , C , and a little Java Script. I really do like to design websites and dont have that much Expirience beacause i'm currently studying. My instagram is instagram.com/.muhd_adil. 
+Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE student from india.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Currently i'm very well good in HTML5 , CSS , C , and a little Java Script. I really do like to design websites and dont have that much Expirience beacause i'm currently learning things.
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MuhdAdil1&color=green" alt="MuhammedAdil" /> 
-</p>
+
 
 </br>
 
