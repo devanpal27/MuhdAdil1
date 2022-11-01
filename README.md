@@ -112,7 +112,7 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 </p>
 <br>
 
-### My Stats🔥
+ 📈 my github stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhdAdil&show_icons=true&theme=radical)
 
