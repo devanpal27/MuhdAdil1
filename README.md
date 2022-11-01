@@ -29,7 +29,7 @@ Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br>
-- 💼 any freelance work? do reach :)
+- 💼 any freelance work? do reach :) <br>
 - 💬 ask me about anything, i am happy to help;
 
 <br>
