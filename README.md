@@ -27,7 +27,7 @@ Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE 
 
 - :school: B.E Student at Sahyadri College Of Engineering And Managment,Manglore
 - :student: I’m currently learning: `Artificial intelligence and machine learning` and `React`.
-- :nerd_face: Currently Learning to become a `Full Stack developer`
+- :nerd_face: Currently in chase to become a `Full Stack developer`
 
 <br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
