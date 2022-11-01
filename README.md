@@ -33,6 +33,8 @@ Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE 
 - 💬 ask me about anything, i am happy to help;
 
 <br>
+<br>
+<br>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
