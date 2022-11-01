@@ -30,7 +30,6 @@ Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE 
 - :nerd_face: Currently Learning to become a `Full Stack developer`
 
 <br>
-<br>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <br>
@@ -52,11 +51,6 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
-
-### :sassy_man: More About me
-
 
 <br>
 
