@@ -23,28 +23,35 @@
 
 <br />
 
-Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE student from india.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Currently i'm very well good in HTML5 , CSS , C , and a little Java Script. I really do like to design websites and dont have that much Expirience beacause i'm currently learning things.
+Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE student from india.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. Currently i'm very well good in HTML5 , CSS , C , and a little Java Script. I really do like to design websites and dont have that much Expirience beacause i'm currently learning things. Chasing to become a full stack web developer.
+
+<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<br>
+- 💼 any freelance work? do reach, [Email](mailto:muhdadil110@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+<br>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   3 hrs 9 mins    █████████████████████▒░░░   49.10 %
+CSS          1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   20.49 %
+HTML         1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   25.27 %
+Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   6.87 %
+```
+
+<!--END_SECTION:waka-->
 
 <br>
 
-
-
-</br>
-
-
-
-### :sassy_man:  About me
+### :sassy_man: More About me
 - :school: B.E Student at Sahyadri College Of Engineering And Managment,Manglore
-- :computer: I am a front-end stack developer 
 - :student: I’m currently learning: `Artificial intelligence and machine learning` and `React`.
 - :technologist: I love using Software as a solution for every `Problem`
 - :nerd_face: Currently Learning to become a `Full Stack developer`
-
-<br>
-
-### Stats🔥
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhdAdil&show_icons=true&theme=radical)
 
 <br>
 
@@ -101,16 +108,15 @@ Hi, I'm Muhammed Adil a passionate self-taught front end web developer and a BE 
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
+<br>
 
-<br/>
+### Muhd Adil's Stats🔥
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:muhdadil110@gmail.com"><img img src="https://xinetzone.github.io/ColoredBadges/svg/social/gmail.svg" alt="Gmail"/></a>
-	<a href="https://github.com/MuhdAdil1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/_.muhd_adil._/"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/instagram.svg" alt="Instagram"/></a>
-	<a href="https://www.snapchat.com/add/muhd_adil8835?share_id=wHJ45yStX2U&locale=en-GB"><img src="https://xinetzone.github.io/ColoredBadges/svg/social/snapchat.svg" alt="Snap Chat"/></a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhdAdil&show_icons=true&theme=radical)
+
+<br>
+
+
 
 
 
