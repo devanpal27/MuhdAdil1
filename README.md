@@ -1,4 +1,4 @@
-### Hi There👋, 
+## Hi There👋, 
 
 <a href="https://www.instagram.com/_.muhd_adil._/">
   <img align="left" alt="Muhd Adil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -50,7 +50,7 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 
 <br>
 
-## :sassy_man: More About me
+### :sassy_man: More About me
 - :school: B.E Student at Sahyadri College Of Engineering And Managment,Manglore
 - :student: I’m currently learning: `Artificial intelligence and machine learning` and `React`.
 - :nerd_face: Currently Learning to become a `Full Stack developer`
@@ -112,7 +112,7 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 </p>
 <br>
 
-### Muhd Adil's Stats🔥
+### My Stats🔥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhdAdil&show_icons=true&theme=radical)
 
