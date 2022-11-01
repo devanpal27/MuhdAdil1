@@ -1,4 +1,21 @@
 ### Hi There👋, I'm Muhammed Adil
+
+<a href="https://www.instagram.com/_.muhd_adil._/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="mailto:muhdadil110@gmail.com"><img img src="https://xinetzone.github.io/ColoredBadges/svg/social/gmail.svg" alt="Gmail"/></a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/MuhdAdi32605097/">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="www.linkedin.com/in/muhd-adil-b0b43a217/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+
 I'm Muhammed Adil from India and i do front-end development right now. Currently i'm very well good in HTML5 , CSS , C , and a little Java Script. I really do like to design websites and dont have that much Expirience beacause i'm currently studying. My instagram is instagram.com/.muhd_adil. 
 
 <br>
