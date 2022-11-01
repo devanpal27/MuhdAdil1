@@ -3,9 +3,10 @@
 <a href="https://www.instagram.com/_.muhd_adil._/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="mailto:muhdadil110@gmail.com"><img img src="https://xinetzone.github.io/ColoredBadges/svg/social/gmail.svg" alt="Gmail"/></a>
+<a href="mailto:muhdadil110@gmail.com">
+	<img  src="https://github.com/avanishsanghvi/social-media-icons-for-portfolio/blob/main/iconfinder_google-gmail_7089163.svg" alt="Gmail"/></a>
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/MuhdAdi32605097/">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
