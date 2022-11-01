@@ -50,7 +50,7 @@ Other        30 mins         ▓░░░░░░░░░░░░░░░░
 
 <br>
 
-### :sassy_man: More About me
+## :sassy_man: More About me
 - :school: B.E Student at Sahyadri College Of Engineering And Managment,Manglore
 - :student: I’m currently learning: `Artificial intelligence and machine learning` and `React`.
 - :nerd_face: Currently Learning to become a `Full Stack developer`
