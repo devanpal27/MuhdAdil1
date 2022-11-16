@@ -3,9 +3,12 @@
 <a href="https://www.instagram.com/_.muhd_adil._/">
   <img align="left" alt="Muhd Adil's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
+
+<!--
 <a href="mailto:muhdadil110@gmail.com">
 	<img align="left" width="22px" src="https://github.com/MuhdAdil1/gmail-icon/blob/main/index.svg" alt="Muhd Adil's Gmail"/>
 </a>
+-->
 	
 <a href="https://discord.gg/REEPERx">
   <img align="left" alt="Muhd Adil's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
